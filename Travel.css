@@ -1,0 +1,60 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	cursor: crosshair;
+}
+
+#wrapper{
+	width: 1200px;
+	background: white;
+	margin: 0 auto;
+}
+
+#header{
+	background: #FFFFFF;
+	font-family: 'Cedarville Cursive', cursive;
+	font color: black;
+	font-size: 70px;
+	text-align: center;
+}
+
+h2{
+	font-family: 'calibri';
+	font-size: 12px;
+}
+
+h3{
+	font-family: 'Cedarville Cursive', cursive;
+	background: #f2e6e9;
+	margin-bottom: 20px;
+}
+
+#column-left{
+	width: 250px;
+	margin: 5px;
+	float: left;
+	background: white;
+}
+
+#column-center{
+	width: 670px;
+	margin: 5px;
+	float: left;
+	background: white;
+}
+
+#column-right{
+	width: 250px;
+	margin: 5px;
+	float: left;
+	background: white;
+}
+
+#footer{
+	clear: both;
+	background: #FFFFFF;
+	font-family: 'Cedarville Cursive', cursive;
+	font color: black;
+	font-size: 50px;
+	text-align: center;
+}
